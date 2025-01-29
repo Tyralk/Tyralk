@@ -8,7 +8,7 @@ Also known as Tyralk (or Eirems in certain online communities). After several ye
 
 I am proficient in Java, with experience in HTML, CSS, and JavaScript, and I'm currently working on improving my confidence with Python as well, so that's another one!
 
-One of the things that got me here was my interest in developing custom tools and practical applications, but I’m always open to exploring new technologies and challenges.
+One of the things that got me here was my interest in developing custom tools and practical Desktop or Android applications, but I’m always open to exploring new technologies and challenges.
 
 To be fair, any excuse to learn something new is welcome! I’m constantly seeking resources and ideas to refine my skills and expand my knowledge, so feel free to reach out and share anything you think might be useful. It will always be greatly appreciated! 😄
 
