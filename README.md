@@ -1,20 +1,31 @@
-# 👋 Hi, I'm Fernando!
+# 👋 Hi, I'm Fernando
 
 ❓ **About Me**  
 
-Also known as Tyralk (or Eirems in certain online communities).
+Also known as Tyralk (or Eirems in some communities).  
 
-After several years working as a 3D artist, I jumped headfirst into the world of software development. My main drive? Learning new stuff and building tools that actually help people.  
+I’m a fullstack developer and former 3D artist with strong experience in **Vue 2 & 3**, **PHP** and **Java**. After transitioning from the 3D industry into software development, I try to bring the same creative and problem-solving mindset into the technical projects I work on. I also work with **Java** and **Spring**, and on Android I’m currently migrating from Java to **Kotlin** with **Jetpack Compose**.
 
-I'm currently focusing on **web and mobile development**, especially creating practical **business apps** for things like managing stores or online orders. Lately, I’ve been working with **Vue 3, Laravel, Tailwind, PrimeVue, SLIM**, and diving into **Android Studio & Flutter** for cross-platform mobile projects.  
+My main focus is building practical business applications: web dashboards for managing stores (sales, expenses, reports, suppliers), digital menus, online ordering systems, and custom internal CRMs. I’m particularly focused on **code optimization, scalability, and maintainability**.  
+
+I enjoy tackling new challenges, exploring different architectures, and continuously refining my skills with every project. 
 
 ---
 
 🛠️ **Skills & Interests**  
 
-I’m confident with **Java, HTML, CSS, and JavaScript**, and I’m leveling up my **Python** skills as well!.  
+- **Frontend:** Vue 2 & 3, Tailwind, PrimeVue  
+- **Backend:** PHP, Laravel, Slim, Java, Spring  
+- **Mobile:** Android (Java → Kotlin/Jetpack Compose)
+- **Databases:** SQL query optimization, database administration, indexing, performance tuning
+- Passionate about building stable and scalable tools that help businesses operate better
+- Interested in learning new frameworks and architectures, and tackling new project challenges
 
-Since I started in software development, I’ve loved creating custom tools, web apps, and mobile applications for all kinds of purposes — from practical business solutions to personal projects. Every opportunity to experiment with new technologies, explore different approaches, or tackle a tricky challenge is always a win in my book 🤣. I enjoy learning through doing and constantly pushing my skills further.
+---
+
+Most of them are just tiny experiments to help some acquaintances or personal ideas I wanted to explore, **learning something new in the process**.
+
+For me, development is a mix of creativity and problem-solving. Whether it’s improving performance, designing a better workflow, or figuring out how to make something work in a cleaner way, I enjoy the process as much as the final result.
 
 **Current stack:**
 
